@@ -1,4 +1,4 @@
-HTML attributes are special words used inside the opening tag of an element to control the element's behavior. The src attribute in an img element specifies the image's URL (where the image is located).
+- HTML attributes are special words used inside the opening tag of an element to control the element's behavior. The src attribute in an img element specifies the image's URL (where the image is located).
 
 Here is an example of an img element with a src attribute pointing to the freeCodeCamp logo:
 
@@ -6,3 +6,7 @@ Here is an example of an img element with a src attribute pointing to the freeCo
 Inside the existing img element, add an src attribute with this URL:
 
 https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg
+
+- You can link to another page with the anchor (a) element. For example, <a href='https://freecodecamp.org'></a> would link to freecodecamp.org.
+
+Add an anchor element after the paragraph that links to https://freecatphotoapp.com. At this point, the link won’t show up in the preview.
