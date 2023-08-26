@@ -10,3 +10,7 @@ https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg
 - You can link to another page with the anchor (a) element. For example, <a href='https://freecodecamp.org'></a> would link to freecodecamp.org.
 
 Add an anchor element after the paragraph that links to https://freecatphotoapp.com. At this point, the link won’t show up in the preview.
+
+- A link's text must be placed between the opening and closing tags of an anchor (a) element. For example, <a href="https://www.freecodecamp.org">click here to go to freeCodeCamp.org</a> is a link with the text click here to go to freeCodeCamp.org.
+
+Add the anchor text link to cat pictures to the anchor element. This will become the link's text.
