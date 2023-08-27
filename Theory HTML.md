@@ -40,4 +40,4 @@ After the image nested in the figure element, add a figcaption element with text
 - Emphasize the word love in the figcaption element by wrapping it in an emphasis em element.
 
 - The code for an ordered list (ol) is similar to an unordered list, but list items in an ordered list are numbered when displayed.
-After the second section element's last h3 element, add an ordered list with these three list items: flea treatment thunder other cats
+After the second section element's last h3 element, add an ordered list with these three list items: ```flea treatment thunder other cats```
