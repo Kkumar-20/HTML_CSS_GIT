@@ -14,4 +14,13 @@ Add an anchor element after the paragraph that links to https://freecatphotoapp.
 - A link's text must be placed between the opening and closing tags of an anchor (a) element. For example, <a href="https://www.freecodecamp.org">click here to go to freeCodeCamp.org</a> is a link with the text click here to go to freeCodeCamp.org.
 Add the anchor text link to cat pictures to the anchor element. This will become the link's text.
 - Add a target attribute with the value _blank to the anchor (a) element's opening tag, so that the link opens in a new tab.
+- Before adding any new content, you should make use of a section element to separate the cat photos content from the future content.
+Take your h2, comment, p, and anchor (a) elements and nest them in a section element.
+- Use list item (li) elements to create items in a list. Here is an example of list items in an unordered list:
+<ul>
+  <li>milk</li>
+  <li>cheese</li>
+</ul>
+Within the ul element nest three list items to display three things cats love:
+cat nip laser pointers lasagna
 - 
