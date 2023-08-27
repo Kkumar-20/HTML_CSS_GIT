@@ -21,11 +21,11 @@ Add the anchor text link to cat pictures to the anchor element. This will become
 Take your h2, comment, p, and anchor (a) elements and nest them in a section element.
 
 - Use list item (li) elements to create items in a list. Here is an example of list items in an unordered list:
-<ul>
+`<ul>
   <li>milk</li>
   <li>cheese</li>
-</ul>
-> Within the ul element nest three list items to display three things cats love:
+</ul>`
+Within the ul element nest three list items to display three things cats love:
 cat nip laser pointers lasagna
 
 - After the unordered list, add a new image with an src attribute value set to: https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg
