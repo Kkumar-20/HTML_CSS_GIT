@@ -52,8 +52,8 @@ In the figcaption you just added, indicate that hate is of strong importance by 
 - - -
 - Now you will add a web form to collect information from users.
 After the Cat Form heading, add a form element.
-- -
+- - -
 The input element allows you several ways to collect data from a web form. Like img elements, input elements are self-closing and do not need closing tags.
 Nest an input element in the form element.
+- - -
 - 
-- kkk
