@@ -27,7 +27,7 @@ Take your h2, comment, p, and anchor (a) elements and nest them in a section ele
 </ul>
 Within the ul element nest three list items to display three things cats love:
 cat nip laser pointers lasagna
-
+---
 - After the unordered list, add a new image with an src attribute value set to: https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg
 And its alt attribute value to: A slice of lasagna on a plate.
 
@@ -35,9 +35,9 @@ And its alt attribute value to: A slice of lasagna on a plate.
 Nest the image you just added within a figure element.
 
 - A figure caption (figcaption) element is used to add a caption to describe the image contained within the figure element. For example, <figcaption>A cute cat</figcaption> adds the caption A cute cat.
-After the image nested in the figure element, add a figcaption element with text set to: <> Cats love lasagna.
+After the image nested in the figure element, add a figcaption element with text set to: Cats love lasagna.
 
 - Emphasize the word love in the figcaption element by wrapping it in an emphasis em element.
 
 - The code for an ordered list (ol) is similar to an unordered list, but list items in an ordered list are numbered when displayed.
-After the second section element's last h3 element, add an ordered list with these three list items: ```flea treatment thunder other cats```
+After the second section element's last h3 element, add an ordered list with these three list items: flea treatment thunder other cats
