@@ -19,7 +19,7 @@ Add the anchor text link to cat pictures to the anchor element. This will become
 - - -
 - Before adding any new content, you should make use of a section element to separate the cat photos content from the future content.
 Take your h2, comment, p, and anchor (a) elements and nest them in a section element.
-
+- - -
 - Use list item (li) elements to create items in a list. Here is an example of list items in an unordered list:
 ```
 <ul>
@@ -44,4 +44,12 @@ After the image nested in the figure element, add a figcaption element with text
 - The code for an ordered list (ol) is similar to an unordered list, but list items in an ordered list are numbered when displayed.
 After the second section element's last h3 element, add an ordered list with these three list items: flea treatment thunder other cats
 - - -
-- 
+- To improve accessibility of the image you added, add an alt attribute with the text:
+Five cats looking around a field.
+- - -
+- The strong element is used to indicate that some text is of strong importance or urgent.
+In the figcaption you just added, indicate that hate is of strong importance by wrapping it in a strong element.
+- - -
+- Now you will add a web form to collect information from users.
+After the Cat Form heading, add a form element.
+- - -
