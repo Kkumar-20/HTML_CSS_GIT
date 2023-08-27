@@ -35,7 +35,7 @@ And its alt attribute value to: A slice of lasagna on a plate.
 Nest the image you just added within a figure element.
 
 - A figure caption (figcaption) element is used to add a caption to describe the image contained within the figure element. For example, <figcaption>A cute cat</figcaption> adds the caption A cute cat.
-After the image nested in the figure element, add a figcaption element with text set to: Cats love lasagna.
+After the image nested in the figure element, add a figcaption element with text set to: <> Cats love lasagna.
 
 - Emphasize the word love in the figcaption element by wrapping it in an emphasis em element.
 
