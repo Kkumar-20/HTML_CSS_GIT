@@ -27,7 +27,7 @@ Take your h2, comment, p, and anchor (a) elements and nest them in a section ele
 </ul>
 Within the ul element nest three list items to display three things cats love:
 cat nip laser pointers lasagna
----
+***
 - After the unordered list, add a new image with an src attribute value set to: https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg
 And its alt attribute value to: A slice of lasagna on a plate.
 
